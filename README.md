@@ -1,31 +1,23 @@
-# 🎓 Sistema de Asistencia Escolar con QR
+# 👋 ¡Hola! Soy Chino Arce Quispe
 
-Bienvenido al repositorio del **Sistema de Asistencia Escolar** desarrollado en **PHP (MVC)**. Esta aplicación permite registrar la asistencia de estudiantes mediante **escaneo QR o ingreso manual de DNI**, clasificando su llegada como **Temprano, Tarde o Fuera de horario**, según los horarios configurados.
-
----
-
-## 🚀 Características Principales
-
-- 📷 Registro de asistencia por **QR en tiempo real**
-- ✍️ Opción de **registro manual** por DNI
-- ⏰ Detección automática: **Temprano**, **Tarde** o **Fuera de horario**
-- 📊 Estadísticas y reportes de asistencia
-- 🧑‍🎓 Módulo de gestión de estudiantes
-- 🗓️ Consulta de historial diario y semanal
-- ⚙️ Administración de horarios y configuraciones
+Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología, el código limpio y los sistemas que **resuelven problemas reales**. Me encanta construir herramientas útiles, trabajar con datos y aprender constantemente.
 
 ---
 
-## 🧱 Tecnologías Utilizadas
+## 🧠 Sobre mí
 
-- **PHP** con arquitectura **MVC**
-- **MySQL** (Base de datos)
-- **HTML5, CSS3, JavaScript**
-- **Tailwind CSS** para estilos modernos
-- **html5-qrcode** para escaneo QR desde cámara
-- **PDO** para conexión segura a la base de datos
+- 🎓 Estudiante / Desarrollador Backend & Frontend
+- 💻 Apasionado por PHP, JavaScript, y tecnologías web
+- 🛠️ Experiencia en sistemas con arquitectura **MVC**
+- 📍 Desde Perú 🇵🇪
+- 🌱 Actualmente mejorando proyectos personales y aprendiendo nuevas tecnologías
 
 ---
 
-## 📁 Estructura del Proyecto
+## 🚀 Tecnologías y herramientas
+
+```bash
+💻 PHP · JavaScript · HTML · CSS · SQL
+🧩 MVC · PDO · TailwindCSS · Bootstrap
+🗂️ Git · GitHub · XAMPP · MySQL
 
